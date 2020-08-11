@@ -1,9 +1,12 @@
 # LinkedIn-Job-Scraper
 Thanks for using the _Biomedical Engineering Navigation Tool for Opportunities_ (aka BENTO)!
+
 __Overview__
+
 What this code will do is pull 25 jobs from LinkedIn for each company specified in the Companies.csv file. Please have the script and the .csv file in the same directory. This script will take roughly 30 seconds per company. After iterating through all companies, it will output an Excel file of all the jobs it looked at that could theoretically be classified as "entry-level", and this Excel file will be located in the same folder as the script and Companies.csv. The Excel File Name will be JobOpportunities_(month)(day)_(year)_(hour)_(minute)_(second).
 
 __Prerequisites__
+
 This script will __require you to have Python3 and Google Chrome installed__. I recommend running it directly from an IDE or Text Editor, such as Visual Studio Code or Spyder. I'm partial to Spyder, as that was the IDE this script was primarily developed in.
 
 This script will require the following packages to be installed for proper functionality. While I've attempted to handle dependency issues, please install the following packages:
