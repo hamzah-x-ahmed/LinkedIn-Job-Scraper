@@ -5,30 +5,30 @@ This script will __require you to have Python3 and Google Chrome installed__. I 
 
 This script will require the following packages to be installed for proper functionality. While I've attempted to handle dependency issues, please install the following packages:
   
-  _TQDM
+  _TQDM_
   
-  _Selenium, with a ChromeDriver compatible with your Google Chrome installation
+  _Selenium, with a ChromeDriver compatible with your Google Chrome installation_
   
-  _Tkinter
+  _Tkinter_
   
-  _Pandas
+  _Pandas_
 
 You can install the packages above by going to your Command Prompt/Terminal and typing in the following (minus the curly brackets}:
   
-  _python -m pip install {module name}
+  _python -m pip install {module name}_
 
 If you are already in a python command line, just run this (again, without curly brackets):
   
-  _pip install {module name}
+  _pip install {module name}_
 
 
 __Disclaimer:__ I am not a savvy coder, at all. Please let me know if you have any issues at hamzah.x.ahmed@gmail.com 
 
 Potential updates in the future:
   
-  _Adding in Selenium selection for "most recent jobs" from LinkedIn published "in the last 2 weeks"
+  _Adding in Selenium selection for "most recent jobs" from LinkedIn published "in the last 2 weeks"_
   
-  _Implementing a scroll to try to capture more than 25 jobs per company
+  _Implementing a scroll to try to capture more than 25 jobs per company_
   
-  _LinkedIn bot that will automatically post updates once a week
+  _LinkedIn bot that will automatically post updates once a week_
  
